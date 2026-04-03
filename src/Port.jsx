@@ -35,7 +35,7 @@ import {
 
 import bg from "../public/bg.png";
 
-// project images
+// project images bg
 import dnaProjectImg from "../public/dna-project.png";
 import geoProjectImg from "../public/geo-project.png";
 import cleanTrackImg from "../public/clean-track.png";
