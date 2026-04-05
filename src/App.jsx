@@ -1,9 +1,7 @@
+import Home from "./pages/Home";
+
 function App() {
-  return (
-    <div style={{ background: "black", color: "white", minHeight: "100vh", padding: "40px" }}>
-      Deployment works
-    </div>
-  );
+  return <Home />;
 }
 
 export default App;
