@@ -1,13 +1,7 @@
-import PortfolioPremium from './Port'
+import Home from "./pages/Home";
 
 function App() {
-
-
-  return (
-    <>
-     <PortfolioPremium/>
-    </>
-  )
+  return <Home />;
 }
 
-export default App
+export default App;
